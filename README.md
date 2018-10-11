@@ -1,7 +1,7 @@
 # Code_fun_do_idea
 This is the idea of app which can be used during any natural disaster.
 This can be created on android studio.
-Features of this app are following
+Features of this app are following-
 
 
 Learn emergency safety tips for over many types of disasters, including fires, flooding, hurricanes, snowstorms, tornadoes, volcanoes and more.
